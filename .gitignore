@@ -1,5 +1,7 @@
 # Ignore Mac system files
 .DS_store
+.gitattributes
+.idea
 
 # Ignore venv folder
 venv
