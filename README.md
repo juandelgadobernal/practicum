@@ -1,4 +1,4 @@
-# practicum
+# Practicum
 
 This repository contains the 'Practicum' code exercise.
 
@@ -16,6 +16,9 @@ Conditions:
   * Locate the search textarea and check its visibility
   * Enter any new search query
   * Check that the entered search query is present and no placeholder is present.
+
+### Please Clone repo
+git clone https://github.com/juandelgadobernal/practicum](https://github.com/juandelgadobernal/practicum.git
 
 ## To run [reverse_list] from ~/Practicum
     python reverse_list.py
